@@ -1,0 +1,8 @@
+{
+    "imports": {
+        // No external libraries are strictly necessary for this initial setup,
+        // but an import map is good for future expansion.
+        // Example: "some-library": "https://cdn.jsdelivr.net/npm/some-library@1.0.0/dist/some-library.min.js"
+    }
+}
+
